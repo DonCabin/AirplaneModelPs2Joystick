@@ -28,7 +28,7 @@ This project has no professional intentions.
 
 ### This was  simple project, but still AWESOME!! 
 ~~~
- PROMISSE (){
+ PROMISE (){
     print( I will do this again and do a better post!! ); 
   } 
 ~~~
